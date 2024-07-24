@@ -12045,7 +12045,7 @@ h1, .h1 {
   font-weight: 700;
 }
 
-p, a {
+p, a, ol, ul, .mb-4 span {
   font-family: Montserrat, sans-serif;
   font-size: 1.6rem;
 }

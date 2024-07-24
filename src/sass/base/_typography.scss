@@ -5,7 +5,10 @@ h1 {
 }
 
 p,
-a {
+a,
+ol,
+ul,
+.mb-4 span {
   font-family: "Montserrat", sans-serif;
   font-size: $default-font-size;
 }
